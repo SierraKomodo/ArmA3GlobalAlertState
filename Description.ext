@@ -1,0 +1,23 @@
+class CfgFunctions
+{
+	class mission
+	{
+		class addActions
+		{
+			class addActions {file = "addActions.sqf"}
+		}
+	}
+
+	class SK
+	{
+		// Global Behaviour
+		class globalBehaviourSetGlobal
+		{
+			class globalBehaviourSetGlobal {file = "SierraKomodo\global_behaviour\sk_behaviour_set_global.sqf"}
+		}
+		class globalBehaviourSetGroup
+		{
+			class globalBehaviourSetGroup {file = "SierraKomodo\global_behaviour\sk_behaviour_set_group.sqf"}
+		}
+	}
+};
